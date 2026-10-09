@@ -29,7 +29,7 @@ O objetivo principal da plataforma é aproximar pessoas de diferentes culturas e
 - **Sobre Nós (`sobre.html`):** Detalhes sobre a história da instituição, missão, visão, valores fundamentais (inclusão, diversidade, dignidade) e localização das sedes (São Paulo, Manaus, Pernambuco e Distrito Federal).
 - **Projetos (`projetos.html`):** Listagem de iniciativas ativas e filtros interativos por sede, área de atuação, público-alvo, formato e status.
 - **Área de Doações (`doar.html`):** Espaço dedicado ao apoio financeiro e estrutural à comunidade.
-- **Inscrições (`inscrever.html`):** Canal de cadastro para os cursos e projetos ofertados.
+- **Cadastrar-se (`cadastro.html`):** Canal de cadastro para os cursos e projetos ofertados.
 
 ---
 
