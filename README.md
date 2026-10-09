@@ -1,7 +1,7 @@
 # 🌍 Conexão BR
 
 <div align="center">
-  <img src="midia/conexao_br/midia/Logo_conexao_br_v2-removebg-preview.webp" alt="Logotipo Conexão BR" width="200px">
+  <img src="conexao_br/midia/Logo_conexao_br_v2.webp" alt="Logotipo Conexão BR" width="200px">
   <p><b>Conectar pessoas. Transformar oportunidades. Construir um Brasil mais inclusivo.</b></p>
 </div>
 
