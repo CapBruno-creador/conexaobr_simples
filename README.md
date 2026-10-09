@@ -19,13 +19,13 @@
 
 O **Conexão BR** é um projeto acadêmico desenvolvido para a **Universidade Cruzeiro do Sul**, idealizado por **Mayara, Luz e Bruno**. Trata-se do portal web de uma ONG fictícia voltada ao acolhimento, educação e integração social de **imigrantes, refugiados e pessoas de baixa renda**.
 
-O objetivo principal da plataforma é aproximar pessoas de diferentes culturas e histórias, oferecendo transparência sobre as iniciativas da organização, acesso a projetos educacionais e canais de inscrição e doação.
+O objetivo principal da plataforma é aproximar pessoas de diferentes culturas e histórias, oferecendo transparência sobre as iniciativas da organização, acesso a projetos educacionais e canais de cadastro e doação.
 
 ---
 
 ## ✨ Funcionalidades do Site
 
-- **Página Inicial (`index.html`):** Apresentação da missão principal da ONG com atalhos rápidos para doações e inscrições.
+- **Página Inicial (`index.html`):** Apresentação da missão principal da ONG com atalhos rápidos para doações e cadastros.
 - **Sobre Nós (`sobre.html`):** Detalhes sobre a história da instituição, missão, visão, valores fundamentais (inclusão, diversidade, dignidade) e localização das sedes (São Paulo, Manaus, Pernambuco e Distrito Federal).
 - **Projetos (`projetos.html`):** Listagem de iniciativas ativas e filtros interativos por sede, área de atuação, público-alvo, formato e status.
 - **Área de Doações (`doar.html`):** Espaço dedicado ao apoio financeiro e estrutural à comunidade.
@@ -53,7 +53,7 @@ conexao_br/
 ├── sobre.html        # Página institucional (Sobre Nós, Missão e Sedes)
 ├── projetos.html     # Listagem e filtros de projetos da ONG
 ├── doar.html         # Página de doações
-├── inscrever.html    # Página de inscrições
+├── cadastro.html    # Página de cadastros
 ├── style.css         # Arquivo de estilos globais
 ├── script.js         # Scripts de interatividade
 └── midia/            # Pasta com logotipos, imagens e ícones
